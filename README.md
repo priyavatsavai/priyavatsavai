@@ -3,6 +3,7 @@
 Hi there! 👋 I'm Priyanka Vatsavai, a dedicated Data Analyst passionate about transforming raw data into actionable insights. This README is a snapshot of my journey through data analytics, problem-solving, and continuous learning! 🌟
 
 ## 📫 Let's Connect
+- [📄 View My Resume](Priyanka_Resume.pdf)
 - **Phone**: +91-733-752-8036  
 - **Email**: [priyavatsavai997@gmail.com](mailto:priyavatsavai997@gmail.com)  
 - **Location**: Vizianagaram, Andhra Pradesh, India  
