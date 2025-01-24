@@ -7,7 +7,7 @@ Hi there! 👋 I'm Priyanka Vatsavai, a dedicated Data Analyst passionate about 
 - **Email**: [priyavatsavai997@gmail.com](mailto:priyavatsavai997@gmail.com)  
 - **Location**: Vizianagaram, Andhra Pradesh, India  
 - **GitHub**: [PriyankaVatsavai](https://github.com/PriyankaVatsavai)  
-- **LinkedIn**: [Priyanka Vatsavai](www.linkedin.com/in/priyanka-vatsavai)
+- **LinkedIn**: [Priyanka Vatsavai](https://www.linkedin.com/in/priyanka-vatsavai)
 Vanity URL name
  
 
