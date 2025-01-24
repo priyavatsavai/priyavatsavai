@@ -29,7 +29,8 @@ After a career break for marriage and parenting, I took the initiative to rebuil
 
 ### 💼 Certifications
 - **Industrial Trip**: IoT Projects at NSTL, Visakhapatnam  
-- **Entrepreneurship Seminar**: Novotel, Visakhapatnam  
+- **Construct**: masai, Visakhapatnam  
+![Python Project](python_project.jpg)
 
 ### 🧠 Skills
 - Effective communication and adaptability  
