@@ -28,9 +28,10 @@ After a career break for marriage and parenting, I took the initiative to rebuil
 - **Bachelor of Technology (CSE)**, JNTU Kakinada (2015 - 2019) – 72.6%  
 
 ### 💼 Certifications
-- **Industrial Trip**: IoT Projects at NSTL, Visakhapatnam  
-- **Construct**: masai, Visakhapatnam  
-![Python Project](python_project.jpg)
+ **Construct**: Masai, Bangalore  
+<div align="left">
+  <img src="python_project.jpg" alt="Python Project" width="400">
+</div>
 
 ### 🧠 Skills
 - Effective communication and adaptability  
