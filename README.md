@@ -28,10 +28,16 @@ After a career break for marriage and parenting, I took the initiative to rebuil
 - **Bachelor of Technology (CSE)**, JNTU Kakinada (2015 - 2019) – 72.6%  
 
 ### 💼 Certifications
- **Construct**: Masai, Bangalore  
-<div align="left">
-  <img src="python_project.jpg" alt="Python Project" width="400">
-</div>
+ **Construct Week Project**: Masai, Bangalore  
+    <div align="left">
+      <img src="python_project.jpg" alt="Python Project" width="400">
+    </div>
+ **MSM & MRM Certificate**: Masai, Bangalore  
+    <div align="left">
+      <img src="MSM_&_MRM.jpg" alt="MSM & MRM Certificate" width="400">
+    </div>
+
+
 
 ### 🧠 Skills
 - Effective communication and adaptability  
