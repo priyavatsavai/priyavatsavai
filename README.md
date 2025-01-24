@@ -32,6 +32,7 @@ After a career break for marriage and parenting, I took the initiative to rebuil
     <div align="left">
       <img src="python_project.jpg" alt="Python Project" width="400">
     </div>
+    
  **MSM & MRM Certificate**: Masai, Bangalore  
     <div align="left">
       <img src="MSM_&_MRM.jpg" alt="MSM & MRM Certificate" width="400">
