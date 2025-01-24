@@ -4,21 +4,23 @@ Hi there! 👋 I'm Priyanka Vatsavai, a dedicated Data Analyst passionate about 
 
 ## 📫 Let's Connect
 - **Phone**: +91-733-752-8036  
-- **Email**: [priya.vatsavai997@gmail.com](mailto:priya.vatsavai997@gmail.com)  
+- **Email**: [priyavatsavai997@gmail.com](mailto:priyavatsavai997@gmail.com)  
 - **Location**: Vizianagaram, Andhra Pradesh, India  
 - **GitHub**: [PriyankaVatsavai](https://github.com/PriyankaVatsavai)  
-- **LinkedIn**: [Priyanka Vatsavai](#)  
+- **LinkedIn**: [Priyanka Vatsavai](www.linkedin.com/in/priyanka-vatsavai)
+Vanity URL name
+ 
 
 ## 🎯 Who Am I?
 I am a results-oriented Data Analyst with hands-on expertise in Python, SQL, and Power BI. With a background in Computer Science and Engineering, I’ve honed my skills through academic projects, professional training, and self-driven learning.
 
-After a career break for marriage and parenting, I took the initiative to rebuild my career by dedicating myself to a rigorous 6-month Data Analytics program at Masai School. I am now eager to apply my skills to solve real-world challenges and make data-driven decisions. 🚀
+After a career break for family responsibilities, I took the initiative to rebuild my career by dedicating myself to a rigorous 6-month Data Analytics program at Masai School. I am now eager to apply my skills to solve real-world challenges and make data-driven decisions. 🚀
 
 ## 🛠️ My Tech Arsenal
-- **Programming Languages**: Python (100+ practice problems in lists, dictionaries, file operations, and more)  
-- **Data Visualization**: Power BI, Matplotlib, Plotly Express  
-- **Databases**: MySQL (schema design, queries, joins, and aggregations)  
-- **Libraries**: Pandas, NumPy  
+- **Programming Languages**: C, C++, Python (100+ practice problems in lists, dictionaries, strings, Loops and more)  
+- **Data Visualization**: Power BI, Matplotlib, Plotly Express, Seaborn 
+- **Databases**: MySQL (schema design, queries, joins, and aggregations with 100+ practice problems)  
+- **Libraries**: Pandas, NumPy 
 - **Excel**: VLOOKUP, Pivot Tables, and Statistical Analysis  
 - **Other Tools**: Git, Colab  
 
@@ -32,12 +34,11 @@ After a career break for marriage and parenting, I took the initiative to rebuil
     <div align="left">
       <img src="python_project.jpg" alt="Python Project" width="400">
     </div>
-    
+
  **MSM & MRM Certificate**: Masai, Bangalore  
     <div align="left">
       <img src="MSM_&_MRM.jpg" alt="MSM & MRM Certificate" width="400">
     </div>
-
 
 
 ### 🧠 Skills
@@ -54,7 +55,7 @@ After a career break for marriage and parenting, I took the initiative to rebuil
   - Visualized trends in SO₂ AQI, CO AQI, and NO₂ AQI, enabling dynamic filtering by state, city, and time.  
 
 ### 2. Trend Trackers: Stock Market Insights for Fast Food Giants
-- **Technologies**: Power BI, Excel  
+- **Technologies**: Power BI, Power Query, MYSQL.
 - **Description**:  
   - Developed an interactive dashboard to analyze the stock performance of leading fast-food companies.  
   - Conducted data cleaning and preprocessing to ensure accuracy.  
